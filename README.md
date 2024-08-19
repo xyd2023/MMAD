@@ -23,7 +23,7 @@ Unsupervised anomaly detection aims to identify data instances that significantl
 </p>
 
 <p align="center">
-  <img src="assets/t2.png" alt="accuracy" width="100%">
+  <img src="assets/t2.png" alt="accuracy" width="60%">
 </p>
 
 <p align="center">
