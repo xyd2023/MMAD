@@ -1,5 +1,7 @@
 # A Unified Model for Multi-class Unsupervised Anomaly Detection with State Space Model
 
+
+
 ## Table of Contents
 - [Abstract](#abstract)
 - [Results](#results)
@@ -10,23 +12,7 @@ Unsupervised anomaly detection aims to identify data instances that significantl
 
 ## Results
 
-### Comparison with State-of-the-Art Methods on Different Anomaly Detection Datasets
 
-| Dataset              | Method                                                        |               Image-level                      | Pixel-level |                  |                  |                  |                  |      |
-|----------------------|---------------------------------------------------------------|----------------|------------|------------------|-------------|------------------|------------------|------------------|------------------|------|
-|                      |                                                               | AU-ROC         | AP         | F1-max           | AU-ROC      | AP               | F1-max           | AU-PRO           | mAD              |      |
-| **MVTec-AD**         | RD4AD                                                         | 94.6           | 96.5       | 95.2             | 96.1        | 48.6             | 53.8             | 91.1             | 82.3             |      |
-|                      | Simplenet                                                     | 95.3           | 98.4       | 95.8             | 96.9        | 45.9             | 49.7             | 86.5             | 81.2             |      |
-|                      | DeSTSeg                                                       | 89.2           | 95.5       | 91.6             | 93.1        | 54.3             | 50.9             | 64.8             | 77.1             |      |
-|                      | UniAD                                                         | 96.5           | 98.8       | 96.2             | 96.8        | 43.4             | 49.5             | 90.7             | 81.7             |      |
-|                      | DiAD                                                          | 97.2           | 99.0       | 96.5             | 96.8        | 52.6             | 55.5             | 90.7             | 84.0             |      |
-|                      | **MMAD (Ours)**                                               | **97.4**       | **99.1**   | **97.0**         | **97.2**    | **54.4**         | **57.5**         | **93.2**         | **85.1**         |      |
-| **VisA**             | RD4AD                                                         | 92.4           | 92.4       | 89.6             | 98.1        | 38.0             | 42.6             | 91.8             | 77.8             |      |
-|                      | Simplenet                                                     | 87.2           | 87.0       | 81.8             | 96.8        | 34.7             | 37.8             | 81.4             | 72.4             |      |
-|                      | DeSTSeg                                                       | 88.9           | 89.0       | 85.2             | 96.1        | 39.6             | 43.4             | 67.4             | 72.8             |      |
-|                      | UniAD                                                         | 88.8           | 90.8       | 85.8             | 98.3        | 33.7             | 39.0             | 85.5             | 74.6             |      |
-|                      | DiAD                                                          | 86.8           | 88.3       | 85.1             | 96.0        | 26.1             | 33.0             | 76.2             | 70.1             |      |
-|                      | **MMAD (Ours)**                                               | **93.1**       | **92.9**   | **89.1**         | **98.4**    | **38.0**         | **42.4**         | **91.0**         | **77.8**         |      |
 
 
 ## Authors
