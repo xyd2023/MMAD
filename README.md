@@ -12,7 +12,7 @@ Unsupervised anomaly detection aims to identify data instances that significantl
 
 ### Comparison with State-of-the-Art Methods on Different Anomaly Detection Datasets
 
-| Dataset              | Method                                                        | Image-level    |            |                  | Pixel-level |                  |                  |                  |                  |      |
+| Dataset              | Method                                                        |               Image-level                      | Pixel-level |                  |                  |                  |                  |      |
 |----------------------|---------------------------------------------------------------|----------------|------------|------------------|-------------|------------------|------------------|------------------|------------------|------|
 |                      |                                                               | AU-ROC         | AP         | F1-max           | AU-ROC      | AP               | F1-max           | AU-PRO           | mAD              |      |
 | **MVTec-AD**         | RD4AD                                                         | 94.6           | 96.5       | 95.2             | 96.1        | 48.6             | 53.8             | 91.1             | 82.3             |      |
