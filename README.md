@@ -1,5 +1,12 @@
 # A Unified Model for Multi-class Unsupervised Anomaly Detection with State Space Model
 
+<p align="center">
+  <img src="assets/f1.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/f2.png" alt="accuracy" width="100%">
+</p>
 
 ## Table of Contents
 - [Abstract](#abstract)
@@ -11,7 +18,29 @@ Unsupervised anomaly detection aims to identify data instances that significantl
 
 ## Results
 
+<p align="center">
+  <img src="assets/t1.png" alt="accuracy" width="100%">
+</p>
 
+<p align="center">
+  <img src="assets/t2.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/f3.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/f4.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/t3.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/t4.png" alt="accuracy" width="100%">
+</p>
 
 
 ## Authors
