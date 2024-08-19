@@ -1,8 +1,5 @@
 # A Unified Model for Multi-class Unsupervised Anomaly Detection with State Space Model
 
-<p align="center">
-  <img src="assets/unified_model.png" alt="accuracy" width="100%">
-</p>
 
 ## Table of Contents
 - [Abstract](#abstract)
