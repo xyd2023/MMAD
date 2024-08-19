@@ -17,18 +17,13 @@ This repository contains source code for MMAD implemented with PyTorch. MMAD is 
 ## Results
 
 ## Authors
-- **Xuesen Ma** - [School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230601, China](https://www.hfut.edu.cn/)
-- **Yudong Xu** - [Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei 230031, China](http://english.hf.cas.cn/)
-- **Dacheng Li** - [Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei 230031, China](http://english.hf.cas.cn/)
-- **Wei Jia** - [School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230601, China](https://www.hfut.edu.cn/)
-- **Yang Wang** - [School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230601, China](https://www.hfut.edu.cn/) | [Email](mailto:yangwang@hfut.edu.cn)
-- **Meng Wang** - [School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230601, China](https://www.hfut.edu.cn/)
+- **Xuesen Ma**
+- **Yudong Xu**
+- **Dacheng Li**
+- **Wei Jia**
+- **Yang Wang** (Contact: [yangwang@hfut.edu.cn](mailto:yangwang@hfut.edu.cn))
+- **Meng Wang**
 
-### Affiliations
-
-1. **School of Computer Science and Information Engineering, Hefei University of Technology, Hefei 230601, China**
-2. **Intelligent Manufacturing Institute of HFUT, Hefei 230051, China**
-3. **Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei 230031, China**
 
 
 
