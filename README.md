@@ -10,6 +10,7 @@
 - [Dataset](#dataset)
 - [Results](#results)
 - [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 
 ## Abstract
 Unsupervised anomaly detection aims to identify data instances that significantly deviate from the norm without the need for labeled training data. Traditional approaches typically utilize a one-class-one-model strategy for each category, which becomes memory-intensive and impractical as the number of categories increases. To address this limitation, multi-class anomaly detection has emerged as a more feasible alternative, focusing on the development of a unified model capable of detecting anomalies across various categories. This repository contains source code for MMAD implemented with PyTorch. MMAD is a unified model for multi-class anomaly detection tasks based on state-space models.
@@ -103,6 +104,9 @@ This project was developed by:
 - **Wei Jia**
 - **Yang Wang**
 - **Meng Wang**
+
+## Acknowledgements
+We thank the great works [ADer](https://github.com/zhangzjn/ADer), [VMamba](https://github.com/MzeroMiko/VMamba) for providing assistance for our research.
 
 
 
