@@ -1,4 +1,4 @@
-# A Unified Model for Multi-class Unsupervised Anomaly Detection with State Space Model
+# A Unified State Space Model for Multi-class Unsupervised Anomaly Detection
 
 <p align="center">
   <img src="assets/f1.png" alt="accuracy" width="100%">
