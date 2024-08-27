@@ -74,7 +74,7 @@ path2
 </p>
 
 <p align="center">
-  <img src="assets/t2.png" alt="accuracy" width="100%">
+  <img src="assets/t2.png" alt="accuracy" width="50%">
 </p>
 
 <p align="center">
