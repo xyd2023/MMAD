@@ -70,11 +70,27 @@ path2
 
 ## Results
 <p align="center">
+  <img src="assets/t1.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/t2.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
   <img src="assets/f3.png" alt="accuracy" width="100%">
 </p>
 
 <p align="center">
   <img src="assets/f4.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/t3.png" alt="accuracy" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/t4.png" alt="accuracy" width="100%">
 </p>
 
 
