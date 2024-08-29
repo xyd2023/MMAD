@@ -82,7 +82,7 @@ path2
 </p>
 
 <p align="center">
-  <img src="assets/f4.png" alt="accuracy" width="100%">
+  <img src="assets/visa_.png" alt="accuracy" width="100%">
 </p>
 
 <p align="center">
