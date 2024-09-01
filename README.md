@@ -70,7 +70,7 @@ path2
 
 ## Results
 <p align="center">
-  <img src="assets/t1.png" alt="accuracy" width="100%">
+  <img src="assets/table1.png" alt="accuracy" width="100%">
 </p>
 
 <p align="center">
